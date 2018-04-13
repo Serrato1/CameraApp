@@ -1,0 +1,10 @@
+.item-container{
+  width:80%;
+  height:300px;
+  display:grid;
+  grid-template-columns: 4fr;
+  grid-template-rows   : 220px 80px ;
+  margin-top:50px;
+  border:1px solid white;
+  /* background: #55efc4; */
+}
